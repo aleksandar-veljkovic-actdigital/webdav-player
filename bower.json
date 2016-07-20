@@ -1,0 +1,21 @@
+{
+  "name": "webdav-audio-player",
+  "authors": [
+    "Aleksandar Veljkovic <aleksandar.veljkovic@diwanee.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jPlayer": "jplayer#2.9.2",
+    "jquery": "jquery#1.12.4"
+  }
+}
